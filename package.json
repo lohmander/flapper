@@ -1,0 +1,17 @@
+{
+  "name": "react-flapper",
+  "version": "1.0.0",
+  "description": "A set of React components that mimic the standard library Flutter widgets.",
+  "main": "lib/index.js",
+  "repository": "git@github.com:lohmander/flapper.git",
+  "author": "Hannes Lohmander <hannes@aldowntown.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-native-web": "^0.14.10"
+  },
+  "devDependencies": {
+    "@types/react-native": "^0.63.46"
+  }
+}
